@@ -1,0 +1,196 @@
+{
+  "main": {
+    "id": "7fa1e753206a828f",
+    "type": "split",
+    "children": [
+      {
+        "id": "48967471cc458ffc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d0e6e91e486da68a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "journals/2023-05-01.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fb584cec580f2a7f",
+    "type": "split",
+    "children": [
+      {
+        "id": "06cbd03d9474b7ca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "03961d16ac620955",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e2ffb21ba9a10d0b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "941a10d1f77b0c88",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "33b15266ce605d81",
+    "type": "split",
+    "children": [
+      {
+        "id": "e3ea53a536b9f1ae",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aeb0da0c6d019346",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "journals/2023-05-01.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c6773620ec1bcac6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "journals/2023-05-01.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9d7052a8f3864dee",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6fd993b81dfa16ff",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "journals/2023-05-01.md"
+              }
+            }
+          },
+          {
+            "id": "482fa274b4905402",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:查看关系图谱": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "canvas:新建白板": false,
+      "templates:插入模板": false,
+      "switcher:打开快速切换": false,
+      "workspaces:管理工作区布局": false,
+      "random-note:开始漫游笔记": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "d0e6e91e486da68a",
+  "lastOpenFiles": [
+    "journals/2023-05-01.md",
+    "assets",
+    "journals",
+    "pages",
+    "pages/笔记.md",
+    "pages/设置图片格式.md",
+    "assets/image-20230501104046253.png",
+    "assets/image-20230501104016362.png",
+    "assets/image-20230501103916528.png",
+    "journals/2023-04-30.md",
+    "logseq/bak/pages/笔记/2023-04-30T16_09_05.389Z.Desktop.md",
+    "assets/image-20230501000905316.png",
+    "assets/Pasted image 20230430235442.png",
+    "assets/image-20230501000804387.png",
+    "logseq/bak/pages/笔记/2023-04-30T16_08_31.914Z.Desktop.md",
+    "assets/笔记/image-20230501000713137.png",
+    "assets/笔记",
+    "image-20230501000620038.png",
+    "image-20230501000455056.png",
+    "pages/assets/笔记/image-20230501000348512.png",
+    "pages/assets/笔记",
+    "pages/assets",
+    "logseq/bak/pages/笔记/2023-04-30T15_56_39.396Z.Desktop.md",
+    "logseq/bak/pages/笔记/2023-04-30T15_54_49.445Z.Desktop.md",
+    "logseq/bak/pages/笔记/2023-04-30T15_54_36.682Z.Desktop.md",
+    "logseq/bak/pages/笔记/2023-04-30T15_53_27.977Z.Desktop.md",
+    "pages/ke.md",
+    "logseq/bak/pages/笔记/2023-04-30T15_53_06.146Z.Desktop.md",
+    "logseq/bak/pages/笔记/2023-04-30T15_50_50.295Z.Desktop.md",
+    "logseq/bak/pages/笔记",
+    "logseq/bak/pages",
+    "logseq/bak",
+    "logseq",
+    "pages/contents.md",
+    "pages/2023-04-30.md"
+  ]
+}
