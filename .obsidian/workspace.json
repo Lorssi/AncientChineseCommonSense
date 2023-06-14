@@ -14,8 +14,21 @@
               "type": "memos_view",
               "state": {}
             }
+          },
+          {
+            "id": "2c2a9217386d7e57",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pages/美人靠.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -98,6 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "pages/美人靠.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,6 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "pages/美人靠.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +173,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "pages/美人靠.md"
+              }
             }
           }
         ],
@@ -184,9 +201,16 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "515d13b5aa56450c",
+  "active": "2c2a9217386d7e57",
   "lastOpenFiles": [
+    "assets/Pasted image 20230614162624.png",
+    "assets/Pasted image 20230614162615.png",
+    "assets/Pasted image 20230614162548.png",
+    "roots/建筑.md",
+    "pages/美人靠.md",
     "canvas",
+    "templates",
+    "roots",
     "Excalidraw/Drawing 2023-06-02 21.44.07.excalidraw.md",
     "Excalidraw/Drawing 2023-06-02 22.54.15.excalidraw.md",
     "journals/2023-06-04.md",
@@ -199,7 +223,6 @@
     "templates/tp.md",
     "pages/tasks.md",
     "pages/test.md",
-    "templates",
     "pages/设置图片格式.md",
     "assets/image-20230501104016362.png",
     "Excalidraw",
@@ -216,8 +239,6 @@
     "logseq/bak/pages/笔记/2023-04-30T16_08_31.914Z.Desktop.md",
     "assets/笔记/image-20230501000713137.png",
     "assets/笔记",
-    "image-20230501000620038.png",
-    "image-20230501000455056.png",
     "pages/assets/笔记",
     "pages/assets",
     "logseq/bak/pages/笔记/2023-04-30T15_56_39.396Z.Desktop.md",
@@ -226,11 +247,7 @@
     "logseq/bak/pages/笔记/2023-04-30T15_53_27.977Z.Desktop.md",
     "pages/ke.md",
     "logseq/bak/pages/笔记/2023-04-30T15_53_06.146Z.Desktop.md",
-    "logseq/bak/pages/笔记/2023-04-30T15_50_50.295Z.Desktop.md",
     "logseq/bak/pages/笔记",
-    "logseq/bak/pages",
-    "logseq/bak",
-    "logseq",
-    "pages/contents.md"
+    "logseq/bak/pages"
   ]
 }
