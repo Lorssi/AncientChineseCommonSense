@@ -1,3 +1,11 @@
 {
-  "accentColor": ""
+  "accentColor": "",
+  "enabledCssSnippets": [
+    "大纲",
+    "搜索框",
+    "tab",
+    "开关",
+    "切换标签页动画",
+    "滚动条"
+  ]
 }

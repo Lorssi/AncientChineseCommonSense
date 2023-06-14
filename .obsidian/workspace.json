@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "48967471cc458ffc",
+        "id": "b1d82ac72d21618d",
         "type": "tabs",
         "children": [
           {
-            "id": "d0e6e91e486da68a",
+            "id": "515d13b5aa56450c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "journals/2023-05-01.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "memos_view",
+              "state": {}
             }
           }
         ]
@@ -48,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#excalidraw",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -64,8 +60,25 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "7b6a5b9c7a048b15",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "7a00b9e3d0427ad2",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -85,7 +98,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "journals/2023-05-01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +114,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "journals/2023-05-01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,24 +131,38 @@
             }
           },
           {
-            "id": "6fd993b81dfa16ff",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "journals/2023-05-01.md"
-              }
-            }
-          },
-          {
-            "id": "482fa274b4905402",
+            "id": "f9d8e08b9a3ef89b",
             "type": "leaf",
             "state": {
               "type": "calendar",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "217a1b3baad463e8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5a40c8d80f8e91f9",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
+            "id": "6fd993b81dfa16ff",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -152,21 +177,38 @@
       "switcher:打开快速切换": false,
       "workspaces:管理工作区布局": false,
       "random-note:开始漫游笔记": false,
-      "command-palette:打开命令面板": false
+      "command-palette:打开命令面板": false,
+      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
+      "templater-obsidian:Templater": false,
+      "file-tree-alternative:File Tree Alternative Plugin": false,
+      "obsidian-memos:Memos": false
     }
   },
-  "active": "d0e6e91e486da68a",
+  "active": "515d13b5aa56450c",
   "lastOpenFiles": [
-    "journals/2023-05-01.md",
-    "assets",
-    "journals",
-    "pages",
+    "canvas",
+    "Excalidraw/Drawing 2023-06-02 21.44.07.excalidraw.md",
+    "Excalidraw/Drawing 2023-06-02 22.54.15.excalidraw.md",
+    "journals/2023-06-04.md",
+    "journals/2023-06-02 插件.md",
+    "inspiration",
+    "journals/delete.md",
     "pages/笔记.md",
-    "pages/设置图片格式.md",
-    "assets/image-20230501104046253.png",
-    "assets/image-20230501104016362.png",
-    "assets/image-20230501103916528.png",
     "journals/2023-04-30.md",
+    "pages/snippets.md",
+    "templates/tp.md",
+    "pages/tasks.md",
+    "pages/test.md",
+    "templates",
+    "pages/设置图片格式.md",
+    "assets/image-20230501104016362.png",
+    "Excalidraw",
+    "assets/image-20230602213503479.png",
+    "assets/image-20230501104046253.png",
+    "journals/2023-05-02.md",
+    "journals/2023-05-01.md",
+    "journals/2023-05-09.md",
+    "assets/image-20230501103916528.png",
     "logseq/bak/pages/笔记/2023-04-30T16_09_05.389Z.Desktop.md",
     "assets/image-20230501000905316.png",
     "assets/Pasted image 20230430235442.png",
@@ -176,7 +218,6 @@
     "assets/笔记",
     "image-20230501000620038.png",
     "image-20230501000455056.png",
-    "pages/assets/笔记/image-20230501000348512.png",
     "pages/assets/笔记",
     "pages/assets",
     "logseq/bak/pages/笔记/2023-04-30T15_56_39.396Z.Desktop.md",
@@ -190,7 +231,6 @@
     "logseq/bak/pages",
     "logseq/bak",
     "logseq",
-    "pages/contents.md",
-    "pages/2023-04-30.md"
+    "pages/contents.md"
   ]
 }
