@@ -21,14 +21,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/美人靠.md",
+                "file": "roots/古籍.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b41ef9d4622f4418",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pages/山海经.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -111,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/美人靠.md",
+                "file": "pages/山海经.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/美人靠.md",
+                "file": "pages/山海经.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/美人靠.md"
+                "file": "pages/山海经.md"
               }
             }
           }
@@ -200,13 +212,15 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "5a40c8d80f8e91f9",
+  "active": "b41ef9d4622f4418",
   "lastOpenFiles": [
+    "roots/古籍.md",
+    "pages/山海经.md",
+    "roots/建筑.md",
+    "pages/美人靠.md",
     "assets/Pasted image 20230614162624.png",
     "assets/Pasted image 20230614162615.png",
     "assets/Pasted image 20230614162548.png",
-    "roots/建筑.md",
-    "pages/美人靠.md",
     "canvas",
     "templates",
     "roots",
@@ -236,7 +250,6 @@
     "assets/Pasted image 20230430235442.png",
     "assets/image-20230501000804387.png",
     "logseq/bak/pages/笔记/2023-04-30T16_08_31.914Z.Desktop.md",
-    "assets/笔记/image-20230501000713137.png",
     "assets/笔记",
     "pages/assets/笔记",
     "pages/assets",
@@ -245,7 +258,6 @@
     "logseq/bak/pages/笔记/2023-04-30T15_54_36.682Z.Desktop.md",
     "logseq/bak/pages/笔记/2023-04-30T15_53_27.977Z.Desktop.md",
     "pages/ke.md",
-    "logseq/bak/pages/笔记/2023-04-30T15_53_06.146Z.Desktop.md",
     "logseq/bak/pages/笔记",
     "logseq/bak/pages"
   ]
