@@ -33,14 +33,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/山海经.md",
+                "file": "roots/术语.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a798b78ed2e10a3a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "roots/古籍.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -123,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/山海经.md",
+                "file": "roots/古籍.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/山海经.md",
+                "file": "roots/古籍.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/山海经.md"
+                "file": "roots/古籍.md"
               }
             }
           }
@@ -212,12 +224,14 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "b41ef9d4622f4418",
+  "active": "a798b78ed2e10a3a",
   "lastOpenFiles": [
-    "roots/古籍.md",
-    "pages/山海经.md",
     "roots/建筑.md",
+    "pages/模因.md",
+    "roots/术语.md",
+    "pages/山海经.md",
     "pages/美人靠.md",
+    "roots/古籍.md",
     "assets/Pasted image 20230614162624.png",
     "assets/Pasted image 20230614162615.png",
     "assets/Pasted image 20230614162548.png",
@@ -256,8 +270,6 @@
     "logseq/bak/pages/笔记/2023-04-30T15_56_39.396Z.Desktop.md",
     "logseq/bak/pages/笔记/2023-04-30T15_54_49.445Z.Desktop.md",
     "logseq/bak/pages/笔记/2023-04-30T15_54_36.682Z.Desktop.md",
-    "logseq/bak/pages/笔记/2023-04-30T15_53_27.977Z.Desktop.md",
-    "pages/ke.md",
     "logseq/bak/pages/笔记",
     "logseq/bak/pages"
   ]

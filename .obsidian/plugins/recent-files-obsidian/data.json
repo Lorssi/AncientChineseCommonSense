@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "山海经",
-      "path": "pages/山海经.md"
-    },
-    {
       "basename": "古籍",
       "path": "roots/古籍.md"
     },
     {
       "basename": "建筑",
       "path": "roots/建筑.md"
+    },
+    {
+      "basename": "模因",
+      "path": "pages/模因.md"
+    },
+    {
+      "basename": "术语",
+      "path": "roots/术语.md"
+    },
+    {
+      "basename": "山海经",
+      "path": "pages/山海经.md"
     },
     {
       "basename": "美人靠",
