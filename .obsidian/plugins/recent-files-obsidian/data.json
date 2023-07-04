@@ -9,12 +9,12 @@
       "path": "roots/建筑.md"
     },
     {
-      "basename": "古籍",
-      "path": "roots/古籍.md"
-    },
-    {
       "basename": "模因",
       "path": "pages/模因.md"
+    },
+    {
+      "basename": "古籍",
+      "path": "roots/古籍.md"
     },
     {
       "basename": "山海经",
