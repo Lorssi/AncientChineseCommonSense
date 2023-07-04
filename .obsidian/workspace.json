@@ -45,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "roots/古籍.md",
+                "file": "roots/术语.md",
                 "mode": "source",
                 "source": false
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "roots/古籍.md",
+                "file": "roots/术语.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "roots/古籍.md",
+                "file": "roots/术语.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "roots/古籍.md"
+                "file": "roots/术语.md"
               }
             }
           }
@@ -227,11 +227,11 @@
   "active": "a798b78ed2e10a3a",
   "lastOpenFiles": [
     "roots/建筑.md",
+    "roots/古籍.md",
     "pages/模因.md",
     "roots/术语.md",
     "pages/山海经.md",
     "pages/美人靠.md",
-    "roots/古籍.md",
     "assets/Pasted image 20230614162624.png",
     "assets/Pasted image 20230614162615.png",
     "assets/Pasted image 20230614162548.png",
