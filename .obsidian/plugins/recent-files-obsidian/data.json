@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "云中君",
+      "path": "pages/云中君.md"
+    },
+    {
+      "basename": "神话",
+      "path": "roots/神话.md"
+    },
+    {
+      "basename": "古籍",
+      "path": "roots/古籍.md"
+    },
+    {
+      "basename": "中国神话人物",
+      "path": "pages/中国神话人物.md"
+    },
+    {
+      "basename": "中国神话",
+      "path": "pages/中国神话.md"
+    },
+    {
       "basename": "服装",
       "path": "roots/服装.md"
     },
@@ -23,10 +43,6 @@
     {
       "basename": "模因",
       "path": "pages/模因.md"
-    },
-    {
-      "basename": "古籍",
-      "path": "roots/古籍.md"
     },
     {
       "basename": "山海经",
