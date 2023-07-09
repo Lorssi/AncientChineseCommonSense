@@ -45,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/中世纪早期服饰概况.md",
+                "file": "roots/服装.md",
                 "mode": "source",
                 "source": false
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/中世纪早期服饰概况.md",
+                "file": "roots/服装.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/中世纪早期服饰概况.md",
+                "file": "roots/服装.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/中世纪早期服饰概况.md"
+                "file": "roots/服装.md"
               }
             }
           }
@@ -226,6 +226,7 @@
   },
   "active": "53dd698adeafc443",
   "lastOpenFiles": [
+    "pages/中国古代服饰.md",
     "roots/服装.md",
     "pages/中世纪早期服饰概况.md",
     "roots/术语.md",
@@ -269,7 +270,6 @@
     "assets/笔记",
     "pages/assets/笔记",
     "pages/assets",
-    "logseq/bak/pages/笔记/2023-04-30T15_56_39.396Z.Desktop.md",
     "logseq/bak/pages/笔记",
     "logseq/bak/pages"
   ]
