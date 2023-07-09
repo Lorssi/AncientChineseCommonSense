@@ -33,19 +33,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "roots/术语.md",
+                "file": "roots/服装.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "a798b78ed2e10a3a",
+            "id": "53dd698adeafc443",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "roots/术语.md",
+                "file": "pages/中世纪早期服饰概况.md",
                 "mode": "source",
                 "source": false
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "roots/术语.md",
+                "file": "pages/中世纪早期服饰概况.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "roots/术语.md",
+                "file": "pages/中世纪早期服饰概况.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "roots/术语.md"
+                "file": "pages/中世纪早期服饰概况.md"
               }
             }
           }
@@ -224,11 +224,13 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "a798b78ed2e10a3a",
+  "active": "53dd698adeafc443",
   "lastOpenFiles": [
+    "roots/服装.md",
+    "pages/中世纪早期服饰概况.md",
+    "roots/术语.md",
     "roots/建筑.md",
     "pages/模因.md",
-    "roots/术语.md",
     "roots/古籍.md",
     "pages/山海经.md",
     "pages/美人靠.md",
@@ -268,8 +270,6 @@
     "pages/assets/笔记",
     "pages/assets",
     "logseq/bak/pages/笔记/2023-04-30T15_56_39.396Z.Desktop.md",
-    "logseq/bak/pages/笔记/2023-04-30T15_54_49.445Z.Desktop.md",
-    "logseq/bak/pages/笔记/2023-04-30T15_54_36.682Z.Desktop.md",
     "logseq/bak/pages/笔记",
     "logseq/bak/pages"
   ]
