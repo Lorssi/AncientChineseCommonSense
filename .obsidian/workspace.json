@@ -74,21 +74,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "d57440832a0e1fe9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "pages/云中君.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -117,7 +105,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#excalidraw",
+                "query": "tag:#中国古装",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -171,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/云中君.md",
+                "file": "pages/中国神话人物.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/云中君.md",
+                "file": "pages/中国神话人物.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/云中君.md"
+                "file": "pages/中国神话人物.md"
               }
             }
           }
@@ -260,21 +248,21 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "d57440832a0e1fe9",
+  "active": "bb5610dcd4742b63",
   "lastOpenFiles": [
+    "pages/中国古代服饰.md",
+    "roots/术语.md",
+    "roots/服装.md",
+    "pages/美人靠.md",
+    "pages/云中君.md",
     "roots/神话.md",
     "roots/古籍.md",
-    "pages/云中君.md",
     "pages/中国神话人物.md",
     "pages/中国神话.md",
-    "roots/服装.md",
-    "pages/中国古代服饰.md",
     "pages/中世纪早期服饰概况.md",
-    "roots/术语.md",
     "roots/建筑.md",
     "pages/模因.md",
     "pages/山海经.md",
-    "pages/美人靠.md",
     "assets/Pasted image 20230614162624.png",
     "assets/Pasted image 20230614162615.png",
     "assets/Pasted image 20230614162548.png",
