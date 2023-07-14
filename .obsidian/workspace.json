@@ -52,7 +52,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/希腊罗马神话.md",
+                "file": "pages/希腊罗马神话(古典学学者写给大众的神话小书，追溯古希腊罗马神话的前世今生。）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/希腊罗马神话.md",
+                "file": "pages/希腊罗马神话(古典学学者写给大众的神话小书，追溯古希腊罗马神话的前世今生。）.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/希腊罗马神话.md"
+                "file": "pages/希腊罗马神话(古典学学者写给大众的神话小书，追溯古希腊罗马神话的前世今生。）.md"
               }
             }
           }
@@ -224,10 +224,10 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "047bf53b4b0c79b9",
+  "active": "837e20e0f3b2d6b4",
   "lastOpenFiles": [
-    "pages/希腊罗马神话(古典学学者写给大众的神话小书，追溯古希腊罗马神话的前世今生。）.md",
     "pages/希腊罗马神话.md",
+    "pages/希腊罗马神话(古典学学者写给大众的神话小书，追溯古希腊罗马神话的前世今生。）.md",
     "assets/book/希腊罗马神话(古典学学者写给大众的神话小书，追溯古希腊罗马神话的前世今生。） (菲利普·马蒂塞克 [菲利普·马蒂塞克]) (Z-Library).epub",
     "assets/book",
     "assets/新建文件夹",
