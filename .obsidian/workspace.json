@@ -45,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/好词好句.md",
+                "file": "pages/中国女孩子发型演变史.md",
                 "mode": "source",
                 "source": false
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/好词好句.md",
+                "file": "pages/中国女孩子发型演变史.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/好词好句.md",
+                "file": "pages/中国女孩子发型演变史.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/好词好句.md"
+                "file": "pages/中国女孩子发型演变史.md"
               }
             }
           }
@@ -226,25 +226,26 @@
   },
   "active": "3a0991f98b0ac8be",
   "lastOpenFiles": [
-    "roots/摘抄.md",
-    "pages/好词好句.md",
+    "assets/Pasted image 20230714213752.png",
+    "assets/Pasted image 20230714213740.png",
+    "assets/Pasted image 20230714213721.png",
+    "assets/Pasted image 20230714213702.png",
+    "assets/Pasted image 20230714213626.png",
+    "assets/Pasted image 20230714213606.png",
+    "assets/Pasted image 20230714213549.png",
+    "assets/Pasted image 20230714213527.png",
+    "assets/Pasted image 20230714213458.png",
+    "assets/Pasted image 20230714213437.png",
+    "assets/Pasted image 20230714213420.png",
     "roots/服饰.md",
+    "pages/好词好句.md",
+    "roots/摘抄.md",
     "roots/神话.md",
     "pages/中国神话.md",
     "roots/风俗.md",
     "roots/术语.md",
     "pages/歇斯底里.md",
     "pages/中国十二月令节俗.md",
-    "assets/Pasted image 20230714163855.png",
-    "assets/Pasted image 20230714163828.png",
-    "assets/Pasted image 20230714163810.png",
-    "assets/Pasted image 20230714163750.png",
-    "assets/Pasted image 20230714163723.png",
-    "assets/Pasted image 20230714163701.png",
-    "assets/Pasted image 20230714163643.png",
-    "assets/Pasted image 20230714163555.png",
-    "assets/Pasted image 20230714163538.png",
-    "assets/Pasted image 20230714163511.png",
     "pages/中国女孩子发型演变史.md",
     "pages/中国古代服饰.md",
     "pages/中国神话人物.md",
@@ -265,7 +266,6 @@
     "inspiration",
     "journals/delete.md",
     "pages/笔记.md",
-    "journals/2023-04-30.md",
     "Excalidraw",
     "assets/笔记",
     "pages/assets/笔记",
