@@ -38,6 +38,18 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "837e20e0f3b2d6b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pages/希腊罗马神话(古典学学者写给大众的神话小书，追溯古希腊罗马神话的前世今生。）.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
         "currentTab": 2
@@ -214,10 +226,13 @@
   },
   "active": "047bf53b4b0c79b9",
   "lastOpenFiles": [
+    "pages/希腊罗马神话(古典学学者写给大众的神话小书，追溯古希腊罗马神话的前世今生。）.md",
+    "pages/希腊罗马神话.md",
+    "assets/book/希腊罗马神话(古典学学者写给大众的神话小书，追溯古希腊罗马神话的前世今生。） (菲利普·马蒂塞克 [菲利普·马蒂塞克]) (Z-Library).epub",
+    "assets/book",
     "assets/新建文件夹",
     "assets/希腊罗马神话(古典学学者写给大众的神话小书，追溯古希腊罗马神话的前世今生。） (菲利普·马蒂塞克 [菲利普·马蒂塞克]) (Z-Library).epub",
     "roots/神话.md",
-    "pages/希腊罗马神话.md",
     "roots/建筑.md",
     "roots/摘抄.md",
     "roots/服饰.md",
@@ -256,9 +271,6 @@
     "Excalidraw/Drawing 2023-06-02 22.54.15.excalidraw.md",
     "inspiration",
     "Excalidraw",
-    "assets/笔记",
-    "pages/assets/笔记",
-    "pages/assets",
-    "logseq/bak/pages/笔记"
+    "assets/笔记"
   ]
 }
