@@ -21,38 +21,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "roots/古籍.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b41ef9d4622f4418",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "roots/摘抄.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3a0991f98b0ac8be",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "pages/中国女孩子发型演变史.md",
+                "file": "roots/建筑.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -135,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/中国女孩子发型演变史.md",
+                "file": "roots/建筑.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/中国女孩子发型演变史.md",
+                "file": "roots/建筑.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/中国女孩子发型演变史.md"
+                "file": "roots/建筑.md"
               }
             }
           }
@@ -224,8 +200,21 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "3a0991f98b0ac8be",
+  "active": "2c2a9217386d7e57",
   "lastOpenFiles": [
+    "roots/摘抄.md",
+    "roots/服饰.md",
+    "roots/术语.md",
+    "roots/风俗.md",
+    "pages/中国女孩子发型演变史.md",
+    "pages/中国古代服饰.md",
+    "roots/神话.md",
+    "journals/2023-05-01.md",
+    "journals/2023-06-14.md",
+    "roots/古籍.md",
+    "pages/汉服.md",
+    "pages/美人靠.md",
+    "roots/建筑.md",
     "assets/Pasted image 20230714221538.png",
     "assets/Pasted image 20230714221533.png",
     "assets/Pasted image 20230714221439.png",
@@ -236,24 +225,13 @@
     "assets/Pasted image 20230714221226.png",
     "assets/Pasted image 20230714221202.png",
     "assets/Pasted image 20230714221156.png",
-    "assets/Pasted image 20230714221149.png",
-    "pages/中国女孩子发型演变史.md",
-    "roots/服饰.md",
     "pages/好词好句.md",
-    "roots/摘抄.md",
-    "roots/神话.md",
     "pages/中国神话.md",
-    "roots/风俗.md",
-    "roots/术语.md",
     "pages/歇斯底里.md",
     "pages/中国十二月令节俗.md",
-    "pages/中国古代服饰.md",
     "pages/中国神话人物.md",
-    "pages/美人靠.md",
     "pages/云中君.md",
-    "roots/古籍.md",
     "pages/中世纪早期服饰概况.md",
-    "roots/建筑.md",
     "pages/模因.md",
     "pages/山海经.md",
     "canvas",
@@ -264,8 +242,6 @@
     "journals/2023-06-04.md",
     "journals/2023-06-02 插件.md",
     "inspiration",
-    "journals/delete.md",
-    "pages/笔记.md",
     "Excalidraw",
     "assets/笔记",
     "pages/assets/笔记",
