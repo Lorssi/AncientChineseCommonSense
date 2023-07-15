@@ -21,38 +21,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "roots/神话.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "047bf53b4b0c79b9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "pages/希腊罗马神话.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "837e20e0f3b2d6b4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "pages/希腊罗马神话(古典学学者写给大众的神话小书，追溯古希腊罗马神话的前世今生。）.md",
+                "file": "roots/古籍.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -135,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/希腊罗马神话(古典学学者写给大众的神话小书，追溯古希腊罗马神话的前世今生。）.md",
+                "file": "roots/古籍.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/希腊罗马神话(古典学学者写给大众的神话小书，追溯古希腊罗马神话的前世今生。）.md",
+                "file": "roots/古籍.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/希腊罗马神话(古典学学者写给大众的神话小书，追溯古希腊罗马神话的前世今生。）.md"
+                "file": "roots/古籍.md"
               }
             }
           }
@@ -206,7 +182,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -224,16 +201,16 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "837e20e0f3b2d6b4",
+  "active": "2c2a9217386d7e57",
   "lastOpenFiles": [
+    "roots/建筑.md",
+    "roots/神话.md",
     "pages/希腊罗马神话.md",
     "pages/希腊罗马神话(古典学学者写给大众的神话小书，追溯古希腊罗马神话的前世今生。）.md",
     "assets/book/希腊罗马神话(古典学学者写给大众的神话小书，追溯古希腊罗马神话的前世今生。） (菲利普·马蒂塞克 [菲利普·马蒂塞克]) (Z-Library).epub",
     "assets/book",
     "assets/新建文件夹",
     "assets/希腊罗马神话(古典学学者写给大众的神话小书，追溯古希腊罗马神话的前世今生。） (菲利普·马蒂塞克 [菲利普·马蒂塞克]) (Z-Library).epub",
-    "roots/神话.md",
-    "roots/建筑.md",
     "roots/摘抄.md",
     "roots/服饰.md",
     "roots/术语.md",
