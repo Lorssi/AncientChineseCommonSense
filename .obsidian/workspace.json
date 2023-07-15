@@ -19,11 +19,9 @@
             "id": "2c2a9217386d7e57",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf-annotator",
               "state": {
-                "file": "roots/古籍.md",
-                "mode": "source",
-                "source": false
+                "file": "pages/希腊罗马神话(古典学学者写给大众的神话小书，追溯古希腊罗马神话的前世今生。）.md"
               }
             }
           }
@@ -111,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "roots/古籍.md",
+                "file": "pages/希腊罗马神话(古典学学者写给大众的神话小书，追溯古希腊罗马神话的前世今生。）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "roots/古籍.md",
+                "file": "pages/希腊罗马神话(古典学学者写给大众的神话小书，追溯古希腊罗马神话的前世今生。）.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "roots/古籍.md"
+                "file": "pages/希腊罗马神话(古典学学者写给大众的神话小书，追溯古希腊罗马神话的前世今生。）.md"
               }
             }
           }
@@ -203,9 +201,10 @@
   },
   "active": "2c2a9217386d7e57",
   "lastOpenFiles": [
-    "roots/建筑.md",
-    "roots/神话.md",
     "pages/希腊罗马神话.md",
+    "roots/神话.md",
+    "roots/古籍.md",
+    "roots/建筑.md",
     "pages/希腊罗马神话(古典学学者写给大众的神话小书，追溯古希腊罗马神话的前世今生。）.md",
     "assets/book/希腊罗马神话(古典学学者写给大众的神话小书，追溯古希腊罗马神话的前世今生。） (菲利普·马蒂塞克 [菲利普·马蒂塞克]) (Z-Library).epub",
     "assets/book",
@@ -219,7 +218,6 @@
     "pages/中国古代服饰.md",
     "journals/2023-05-01.md",
     "journals/2023-06-14.md",
-    "roots/古籍.md",
     "pages/汉服.md",
     "pages/美人靠.md",
     "assets/Pasted image 20230714221538.png",
