@@ -19,9 +19,11 @@
             "id": "92a1a0a058ec610f",
             "type": "leaf",
             "state": {
-              "type": "pdf-annotator",
+              "type": "markdown",
               "state": {
-                "file": "pages/希腊罗马神话(古典学学者写给大众的神话小书，追溯古希腊罗马神话的前世今生。）.md"
+                "file": "pages/希腊罗马神话.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -109,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/希腊罗马神话(古典学学者写给大众的神话小书，追溯古希腊罗马神话的前世今生。）.md",
+                "file": "pages/希腊罗马神话.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/希腊罗马神话(古典学学者写给大众的神话小书，追溯古希腊罗马神话的前世今生。）.md",
+                "file": "pages/希腊罗马神话.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/希腊罗马神话(古典学学者写给大众的神话小书，追溯古希腊罗马神话的前世今生。）.md"
+                "file": "pages/希腊罗马神话.md"
               }
             }
           }
@@ -201,15 +203,16 @@
   },
   "active": "92a1a0a058ec610f",
   "lastOpenFiles": [
-    "pages/希腊罗马神话.md",
     "roots/神话.md",
     "roots/爵位.md",
+    "pages/美人靠.md",
     "roots/术语.md",
+    "pages/希腊罗马神话(古典学学者写给大众的神话小书，追溯古希腊罗马神话的前世今生。）.md",
+    "pages/希腊罗马神话.md",
     "roots/服饰.md",
     "pages/好词好句.md",
     "roots/摘抄.md",
     "roots/风俗.md",
-    "pages/希腊罗马神话(古典学学者写给大众的神话小书，追溯古希腊罗马神话的前世今生。）.md",
     "roots/古籍.md",
     "roots/建筑.md",
     "assets/book/希腊罗马神话(古典学学者写给大众的神话小书，追溯古希腊罗马神话的前世今生。） (菲利普·马蒂塞克 [菲利普·马蒂塞克]) (Z-Library).epub",
@@ -221,7 +224,6 @@
     "journals/2023-05-01.md",
     "journals/2023-06-14.md",
     "pages/汉服.md",
-    "pages/美人靠.md",
     "assets/Pasted image 20230714221538.png",
     "assets/Pasted image 20230714221533.png",
     "assets/Pasted image 20230714221439.png",
