@@ -26,9 +26,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1f0c981d46e83b78",
+            "type": "leaf",
+            "state": {
+              "type": "pdf-annotator",
+              "state": {
+                "file": "pages/希腊罗马神话(古典学学者写给大众的神话小书，追溯古希腊罗马神话的前世今生。）.md"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -111,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/希腊罗马神话.md",
+                "file": "pages/希腊罗马神话(古典学学者写给大众的神话小书，追溯古希腊罗马神话的前世今生。）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/希腊罗马神话.md",
+                "file": "pages/希腊罗马神话(古典学学者写给大众的神话小书，追溯古希腊罗马神话的前世今生。）.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/希腊罗马神话.md"
+                "file": "pages/希腊罗马神话(古典学学者写给大众的神话小书，追溯古希腊罗马神话的前世今生。）.md"
               }
             }
           }
@@ -201,14 +211,14 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "92a1a0a058ec610f",
+  "active": "1f0c981d46e83b78",
   "lastOpenFiles": [
+    "pages/希腊罗马神话.md",
+    "pages/希腊罗马神话(古典学学者写给大众的神话小书，追溯古希腊罗马神话的前世今生。）.md",
     "roots/神话.md",
     "roots/爵位.md",
     "pages/美人靠.md",
     "roots/术语.md",
-    "pages/希腊罗马神话(古典学学者写给大众的神话小书，追溯古希腊罗马神话的前世今生。）.md",
-    "pages/希腊罗马神话.md",
     "roots/服饰.md",
     "pages/好词好句.md",
     "roots/摘抄.md",
