@@ -16,7 +16,7 @@
             }
           },
           {
-            "id": "92a1a0a058ec610f",
+            "id": "43f395a036d7cf62",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -24,16 +24,6 @@
                 "file": "pages/希腊罗马神话.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "ebfc09c459ddc129",
-            "type": "leaf",
-            "state": {
-              "type": "pdf-annotator",
-              "state": {
-                "file": "pages/希腊罗马神话(古典学学者写给大众的神话小书，追溯古希腊罗马神话的前世今生。）.md"
               }
             }
           }
@@ -100,8 +90,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -211,12 +200,13 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "92a1a0a058ec610f",
+  "active": "43f395a036d7cf62",
   "lastOpenFiles": [
     "roots/神话.md",
+    "journals/Git.md",
     "pages/希腊罗马神话(古典学学者写给大众的神话小书，追溯古希腊罗马神话的前世今生。）.md",
-    "roots/建筑.md",
     "pages/希腊罗马神话.md",
+    "roots/建筑.md",
     "roots/道具.md",
     "roots/爵位.md",
     "pages/美人靠.md",
@@ -252,7 +242,6 @@
     "pages/云中君.md",
     "pages/中世纪早期服饰概况.md",
     "pages/模因.md",
-    "pages/山海经.md",
     "canvas",
     "templates",
     "roots",
