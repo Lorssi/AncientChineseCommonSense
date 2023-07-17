@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "roots/神话.md",
+                "file": "roots/术语.md",
                 "mode": "source",
                 "source": false
               }
@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "roots/神话.md",
+                "file": "roots/术语.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "roots/神话.md",
+                "file": "roots/术语.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "roots/神话.md"
+                "file": "roots/术语.md"
               }
             }
           }
@@ -203,10 +203,14 @@
   },
   "active": "92a1a0a058ec610f",
   "lastOpenFiles": [
+    "roots/服饰.md",
+    "pages/好词好句.md",
+    "roots/摘抄.md",
+    "roots/爵位.md",
+    "roots/神话.md",
     "roots/风俗.md",
     "pages/希腊罗马神话(古典学学者写给大众的神话小书，追溯古希腊罗马神话的前世今生。）.md",
     "pages/希腊罗马神话.md",
-    "roots/神话.md",
     "roots/术语.md",
     "roots/古籍.md",
     "roots/建筑.md",
@@ -214,8 +218,6 @@
     "assets/book",
     "assets/新建文件夹",
     "assets/希腊罗马神话(古典学学者写给大众的神话小书，追溯古希腊罗马神话的前世今生。） (菲利普·马蒂塞克 [菲利普·马蒂塞克]) (Z-Library).epub",
-    "roots/摘抄.md",
-    "roots/服饰.md",
     "pages/中国女孩子发型演变史.md",
     "pages/中国古代服饰.md",
     "journals/2023-05-01.md",
@@ -232,7 +234,6 @@
     "assets/Pasted image 20230714221226.png",
     "assets/Pasted image 20230714221202.png",
     "assets/Pasted image 20230714221156.png",
-    "pages/好词好句.md",
     "pages/中国神话.md",
     "pages/歇斯底里.md",
     "pages/中国十二月令节俗.md",
@@ -245,7 +246,6 @@
     "templates",
     "roots",
     "Excalidraw/Drawing 2023-06-02 21.44.07.excalidraw.md",
-    "Excalidraw/Drawing 2023-06-02 22.54.15.excalidraw.md",
     "inspiration",
     "Excalidraw",
     "assets/笔记"
