@@ -8,26 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "515d13b5aa56450c",
-            "type": "leaf",
-            "state": {
-              "type": "memos_view",
-              "state": {}
-            }
-          },
-          {
-            "id": "43f395a036d7cf62",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "pages/希腊罗马神话.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "dba4059176fc4720",
             "type": "leaf",
             "state": {
@@ -39,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,7 +81,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -214,11 +194,11 @@
   },
   "active": "dba4059176fc4720",
   "lastOpenFiles": [
+    "pages/希腊罗马神话(古典学学者写给大众的神话小书，追溯古希腊罗马神话的前世今生。）.md",
+    "pages/希腊罗马神话.md",
     "roots/神话.md",
     "roots/摘抄.md",
-    "pages/希腊罗马神话.md",
     "journals/Git.md",
-    "pages/希腊罗马神话(古典学学者写给大众的神话小书，追溯古希腊罗马神话的前世今生。）.md",
     "roots/建筑.md",
     "roots/道具.md",
     "roots/爵位.md",
