@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/希腊罗马神话.md",
+                "file": "pages/伟大的诸神：第一代神祇.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/希腊罗马神话.md",
+                "file": "pages/伟大的诸神：第一代神祇.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/希腊罗马神话.md",
+                "file": "pages/伟大的诸神：第一代神祇.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/希腊罗马神话.md"
+                "file": "pages/伟大的诸神：第一代神祇.md"
               }
             }
           }
@@ -206,8 +206,8 @@
   },
   "active": "dba4059176fc4720",
   "lastOpenFiles": [
-    "pages/伟大的诸神：第一代神祇.md",
     "pages/希腊罗马神话.md",
+    "pages/伟大的诸神：第一代神祇.md",
     "pages/希腊罗马神话(古典学学者写给大众的神话小书，追溯古希腊罗马神话的前世今生。）.md",
     "roots/神话.md",
     "roots/摘抄.md",
