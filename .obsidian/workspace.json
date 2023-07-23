@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/伟大的诸神：第一代神祇.md",
+                "file": "roots/神话.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/希腊罗马神话.md",
+                "file": "pages/伟大的诸神：第一代神祇.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -204,11 +205,11 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "b6bd26cac7585eb0",
+  "active": "e7d5800a62a4fede",
   "lastOpenFiles": [
     "pages/希腊罗马神话.md",
-    "pages/伟大的诸神：第一代神祇.md",
     "roots/神话.md",
+    "pages/伟大的诸神：第一代神祇.md",
     "roots/术语.md",
     "pages/希腊罗马神话(古典学学者写给大众的神话小书，追溯古希腊罗马神话的前世今生。）.md",
     "roots/摘抄.md",
