@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "roots/神话.md",
+                "file": "roots/摘抄.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e8b3bf5b7c865c9d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pages/好词好句.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -102,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "roots/神话.md",
+                "file": "pages/好词好句.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "roots/神话.md",
+                "file": "pages/好词好句.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "roots/神话.md"
+                "file": "pages/好词好句.md"
               }
             }
           }
@@ -192,14 +205,14 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "b6bd26cac7585eb0",
+  "active": "e8b3bf5b7c865c9d",
   "lastOpenFiles": [
+    "roots/摘抄.md",
     "pages/伟大的诸神：第一代神祇.md",
     "pages/希腊罗马神话.md",
     "roots/神话.md",
     "roots/术语.md",
     "pages/希腊罗马神话(古典学学者写给大众的神话小书，追溯古希腊罗马神话的前世今生。）.md",
-    "roots/摘抄.md",
     "journals/Git.md",
     "roots/建筑.md",
     "roots/道具.md",
