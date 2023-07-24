@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "e7d5800a62a4fede",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "pages/伟大的诸神：第一代神祇.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -115,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/伟大的诸神：第一代神祇.md",
+                "file": "roots/神话.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/伟大的诸神：第一代神祇.md",
+                "file": "roots/神话.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/伟大的诸神：第一代神祇.md"
+                "file": "roots/神话.md"
               }
             }
           }
@@ -205,11 +192,11 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "e7d5800a62a4fede",
+  "active": "b6bd26cac7585eb0",
   "lastOpenFiles": [
+    "pages/伟大的诸神：第一代神祇.md",
     "pages/希腊罗马神话.md",
     "roots/神话.md",
-    "pages/伟大的诸神：第一代神祇.md",
     "roots/术语.md",
     "pages/希腊罗马神话(古典学学者写给大众的神话小书，追溯古希腊罗马神话的前世今生。）.md",
     "roots/摘抄.md",
