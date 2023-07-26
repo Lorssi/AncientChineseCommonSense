@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b6bd26cac7585eb0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "roots/摘抄.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "e8b3bf5b7c865c9d",
             "type": "leaf",
             "state": {
@@ -31,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -208,12 +195,12 @@
   "active": "e8b3bf5b7c865c9d",
   "lastOpenFiles": [
     "pages/希腊罗马神话.md",
-    "pages/[阿尔忒弥斯.md",
-    "pages/奥林匹斯：下一代神祇.md",
-    "pages/伟大的诸神：第一代神祇.md",
     "roots/神话.md",
-    "pages/好词好句.md",
+    "pages/奥林匹斯：下一代神祇.md",
     "roots/摘抄.md",
+    "pages/[阿尔忒弥斯.md",
+    "pages/伟大的诸神：第一代神祇.md",
+    "pages/好词好句.md",
     "roots/术语.md",
     "pages/希腊罗马神话(古典学学者写给大众的神话小书，追溯古希腊罗马神话的前世今生。）.md",
     "journals/Git.md",

@@ -9,6 +9,14 @@
       "path": "pages/希腊罗马神话.md"
     },
     {
+      "basename": "神话",
+      "path": "roots/神话.md"
+    },
+    {
+      "basename": "摘抄",
+      "path": "roots/摘抄.md"
+    },
+    {
       "basename": "[阿尔忒弥斯",
       "path": "pages/[阿尔忒弥斯.md"
     },
@@ -17,16 +25,8 @@
       "path": "pages/伟大的诸神：第一代神祇.md"
     },
     {
-      "basename": "神话",
-      "path": "roots/神话.md"
-    },
-    {
       "basename": "好词好句",
       "path": "pages/好词好句.md"
-    },
-    {
-      "basename": "摘抄",
-      "path": "roots/摘抄.md"
     },
     {
       "basename": "术语",
