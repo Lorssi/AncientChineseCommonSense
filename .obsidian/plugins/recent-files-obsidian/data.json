@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "神器",
+      "path": "pages/神器.md"
+    },
+    {
       "basename": "术语",
       "path": "roots/术语.md"
     },
     {
-      "basename": "模因",
-      "path": "pages/模因.md"
+      "basename": "词语积累",
+      "path": "pages/词语积累.md"
     },
     {
-      "basename": "神器",
-      "path": "pages/神器.md"
+      "basename": "积累",
+      "path": "roots/积累.md"
+    },
+    {
+      "basename": "模因",
+      "path": "pages/模因.md"
     },
     {
       "basename": "奥林匹斯：下一代神祇",
@@ -23,10 +31,6 @@
     {
       "basename": "神话",
       "path": "roots/神话.md"
-    },
-    {
-      "basename": "摘抄",
-      "path": "roots/摘抄.md"
     },
     {
       "basename": "[阿尔忒弥斯",
@@ -95,10 +99,6 @@
     {
       "basename": "中国神话",
       "path": "pages/中国神话.md"
-    },
-    {
-      "basename": "歇斯底里",
-      "path": "pages/歇斯底里.md"
     },
     {
       "basename": "中国十二月令节俗",
