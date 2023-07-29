@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/神器.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7f0a2271f3884a94",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "pages/词语积累.md",
+                "file": "roots/术语.md",
                 "mode": "source",
                 "source": false
               }
@@ -126,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/神器.md",
+                "file": "roots/术语.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/神器.md",
+                "file": "roots/术语.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/神器.md"
+                "file": "roots/术语.md"
               }
             }
           }
@@ -218,12 +206,12 @@
   },
   "active": "e8b3bf5b7c865c9d",
   "lastOpenFiles": [
+    "pages/神器.md",
+    "pages/词语积累.md",
     "roots/术语.md",
     "pages/歇斯底里.md",
-    "pages/词语积累.md",
     "roots/积累.md",
     "pages/模因.md",
-    "pages/神器.md",
     "pages/奥林匹斯：下一代神祇.md",
     "pages/希腊罗马神话.md",
     "roots/神话.md",
