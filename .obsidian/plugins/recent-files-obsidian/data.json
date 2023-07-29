@@ -5,6 +5,14 @@
       "path": "roots/术语.md"
     },
     {
+      "basename": "模因",
+      "path": "pages/模因.md"
+    },
+    {
+      "basename": "神器",
+      "path": "pages/神器.md"
+    },
+    {
       "basename": "奥林匹斯：下一代神祇",
       "path": "pages/奥林匹斯：下一代神祇.md"
     },
@@ -107,10 +115,6 @@
     {
       "basename": "中世纪早期服饰概况",
       "path": "pages/中世纪早期服饰概况.md"
-    },
-    {
-      "basename": "模因",
-      "path": "pages/模因.md"
     },
     {
       "basename": "山海经",
