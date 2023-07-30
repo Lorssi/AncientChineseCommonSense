@@ -5,24 +5,28 @@
       "path": "roots/术语.md"
     },
     {
-      "basename": "神器",
-      "path": "pages/神器.md"
+      "basename": "爵位",
+      "path": "roots/爵位.md"
     },
     {
-      "basename": "词语积累",
-      "path": "pages/词语积累.md"
+      "basename": "服饰",
+      "path": "roots/服饰.md"
+    },
+    {
+      "basename": "古籍",
+      "path": "roots/古籍.md"
+    },
+    {
+      "basename": "建筑",
+      "path": "roots/建筑.md"
     },
     {
       "basename": "积累",
       "path": "roots/积累.md"
     },
     {
-      "basename": "模因",
-      "path": "pages/模因.md"
-    },
-    {
-      "basename": "奥林匹斯：下一代神祇",
-      "path": "pages/奥林匹斯：下一代神祇.md"
+      "basename": "风俗",
+      "path": "roots/风俗.md"
     },
     {
       "basename": "希腊罗马神话",
@@ -31,6 +35,14 @@
     {
       "basename": "神话",
       "path": "roots/神话.md"
+    },
+    {
+      "basename": "词语积累",
+      "path": "pages/词语积累.md"
+    },
+    {
+      "basename": "奥林匹斯：下一代神祇",
+      "path": "pages/奥林匹斯：下一代神祇.md"
     },
     {
       "basename": "[阿尔忒弥斯",
@@ -47,26 +59,6 @@
     {
       "basename": "希腊罗马神话(古典学学者写给大众的神话小书，追溯古希腊罗马神话的前世今生。）",
       "path": "pages/希腊罗马神话(古典学学者写给大众的神话小书，追溯古希腊罗马神话的前世今生。）.md"
-    },
-    {
-      "basename": "建筑",
-      "path": "roots/建筑.md"
-    },
-    {
-      "basename": "爵位",
-      "path": "roots/爵位.md"
-    },
-    {
-      "basename": "服饰",
-      "path": "roots/服饰.md"
-    },
-    {
-      "basename": "风俗",
-      "path": "roots/风俗.md"
-    },
-    {
-      "basename": "古籍",
-      "path": "roots/古籍.md"
     },
     {
       "basename": "中国女孩子发型演变史",
