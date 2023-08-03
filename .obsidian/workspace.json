@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "roots/术语.md",
+                "file": "roots/建筑.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "roots/术语.md",
+                "file": "roots/建筑.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "roots/术语.md",
+                "file": "roots/建筑.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "roots/术语.md"
+                "file": "roots/建筑.md"
               }
             }
           }
@@ -206,9 +206,9 @@
   },
   "active": "e8b3bf5b7c865c9d",
   "lastOpenFiles": [
+    "roots/术语.md",
     "roots/应用.md",
     "roots/灵感.md",
-    "roots/术语.md",
     "roots/爵位.md",
     "roots/服饰.md",
     "roots/古籍.md",

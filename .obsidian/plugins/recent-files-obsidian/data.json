@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "建筑",
+      "path": "roots/建筑.md"
+    },
+    {
       "basename": "术语",
       "path": "roots/术语.md"
     },
@@ -23,10 +27,6 @@
     {
       "basename": "古籍",
       "path": "roots/古籍.md"
-    },
-    {
-      "basename": "建筑",
-      "path": "roots/建筑.md"
     },
     {
       "basename": "积累",
