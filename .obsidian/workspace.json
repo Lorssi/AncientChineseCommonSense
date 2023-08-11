@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "roots/神话.md",
+                "file": "roots/术语.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "roots/神话.md",
+                "file": "roots/术语.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "roots/神话.md",
+                "file": "roots/术语.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "roots/神话.md"
+                "file": "roots/术语.md"
               }
             }
           }
@@ -206,8 +206,8 @@
   },
   "active": "170024c9df22452f",
   "lastOpenFiles": [
-    "roots/积累.md",
     "roots/神话.md",
+    "roots/积累.md",
     "roots/应用.md",
     "roots/建筑.md",
     "roots/服饰.md",
