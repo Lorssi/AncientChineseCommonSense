@@ -9,12 +9,12 @@
       "path": "pages/希腊罗马神话.md"
     },
     {
-      "basename": "凯尔特神话",
-      "path": "pages/凯尔特神话.md"
-    },
-    {
       "basename": "神话",
       "path": "roots/神话.md"
+    },
+    {
+      "basename": "凯尔特神话",
+      "path": "pages/凯尔特神话.md"
     },
     {
       "basename": "风俗",
