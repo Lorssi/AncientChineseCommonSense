@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/好词好句.md",
+                "file": "roots/术语.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/好词好句.md",
+                "file": "roots/术语.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/好词好句.md",
+                "file": "roots/术语.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/好词好句.md"
+                "file": "roots/术语.md"
               }
             }
           }
@@ -194,6 +194,7 @@
   },
   "active": "fb2a9b9b51bf15b4",
   "lastOpenFiles": [
+    "pages/好词好句.md",
     "roots/积累.md",
     "roots/术语.md",
     "roots/神话.md",
@@ -226,7 +227,6 @@
     "pages/歇斯底里.md",
     "pages/[阿尔忒弥斯.md",
     "pages/伟大的诸神：第一代神祇.md",
-    "pages/好词好句.md",
     "pages/希腊罗马神话(古典学学者写给大众的神话小书，追溯古希腊罗马神话的前世今生。）.md",
     "journals/Git.md",
     "roots/道具.md",
