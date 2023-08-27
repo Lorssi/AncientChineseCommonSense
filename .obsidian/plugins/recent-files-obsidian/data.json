@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "术语",
-      "path": "roots/术语.md"
+      "basename": "中国幻想生物",
+      "path": "pages/中国幻想生物.md"
     },
     {
-      "basename": "好词好句",
-      "path": "pages/好词好句.md"
+      "basename": "生物",
+      "path": "roots/生物.md"
+    },
+    {
+      "basename": "风俗",
+      "path": "roots/风俗.md"
     },
     {
       "basename": "积累",
@@ -15,6 +19,38 @@
     {
       "basename": "神话",
       "path": "roots/神话.md"
+    },
+    {
+      "basename": "爵位",
+      "path": "roots/爵位.md"
+    },
+    {
+      "basename": "灵感",
+      "path": "roots/灵感.md"
+    },
+    {
+      "basename": "术语",
+      "path": "roots/术语.md"
+    },
+    {
+      "basename": "服饰",
+      "path": "roots/服饰.md"
+    },
+    {
+      "basename": "建筑",
+      "path": "roots/建筑.md"
+    },
+    {
+      "basename": "应用",
+      "path": "roots/应用.md"
+    },
+    {
+      "basename": "古籍",
+      "path": "roots/古籍.md"
+    },
+    {
+      "basename": "好词好句",
+      "path": "pages/好词好句.md"
     },
     {
       "basename": "希腊罗马神话中的各种生物",
@@ -33,30 +69,6 @@
       "path": "pages/凯尔特神话.md"
     },
     {
-      "basename": "风俗",
-      "path": "roots/风俗.md"
-    },
-    {
-      "basename": "应用",
-      "path": "roots/应用.md"
-    },
-    {
-      "basename": "建筑",
-      "path": "roots/建筑.md"
-    },
-    {
-      "basename": "服饰",
-      "path": "roots/服饰.md"
-    },
-    {
-      "basename": "灵感",
-      "path": "roots/灵感.md"
-    },
-    {
-      "basename": "爵位",
-      "path": "roots/爵位.md"
-    },
-    {
       "basename": "词语积累",
       "path": "pages/词语积累.md"
     },
@@ -67,10 +79,6 @@
     {
       "basename": "罗马万神殿",
       "path": "pages/罗马万神殿.md"
-    },
-    {
-      "basename": "古籍",
-      "path": "roots/古籍.md"
     },
     {
       "basename": "[阿尔忒弥斯",
