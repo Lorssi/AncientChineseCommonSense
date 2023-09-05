@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "roots/生物.md",
+                "file": "pages/希腊罗马神话.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/中国幻想生物.md",
+                "file": "pages/下级神、魔法生物与英雄们的祖先.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -115,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/中国幻想生物.md",
+                "file": "pages/希腊罗马神话.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/中国幻想生物.md",
+                "file": "pages/希腊罗马神话.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/中国幻想生物.md"
+                "file": "pages/希腊罗马神话.md"
               }
             }
           }
@@ -205,24 +204,25 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "85477f9d03afff36",
+  "active": "fb2a9b9b51bf15b4",
   "lastOpenFiles": [
-    "roots/生物.md",
-    "pages/中国幻想生物.md",
-    "roots/风俗.md",
-    "roots/积累.md",
+    "pages/下级神、魔法生物与英雄们的祖先.md",
+    "pages/希腊罗马神话.md",
+    "pages/希腊罗马神话(古典学学者写给大众的神话小书，追溯古希腊罗马神话的前世今生。）.md",
     "roots/神话.md",
+    "roots/生物.md",
     "roots/爵位.md",
-    "roots/灵感.md",
-    "roots/术语.md",
-    "roots/服饰.md",
     "roots/建筑.md",
     "roots/应用.md",
     "roots/古籍.md",
+    "pages/中国幻想生物.md",
+    "roots/风俗.md",
+    "roots/积累.md",
+    "roots/灵感.md",
+    "roots/术语.md",
+    "roots/服饰.md",
     "pages/好词好句.md",
     "pages/希腊罗马神话中的各种生物.md",
-    "pages/希腊罗马神话.md",
-    "pages/下级神、魔法生物与英雄们的祖先.md",
     "pages/凯尔特神话.md",
     "pages/词语积累.md",
     "pages/奥林匹斯：下一代神祇.md",
@@ -242,7 +242,6 @@
     "pages/歇斯底里.md",
     "pages/[阿尔忒弥斯.md",
     "pages/伟大的诸神：第一代神祇.md",
-    "pages/希腊罗马神话(古典学学者写给大众的神话小书，追溯古希腊罗马神话的前世今生。）.md",
     "assets/book/希腊罗马神话(古典学学者写给大众的神话小书，追溯古希腊罗马神话的前世今生。） (菲利普·马蒂塞克 [菲利普·马蒂塞克]) (Z-Library).epub",
     "assets/book",
     "assets/新建文件夹",
