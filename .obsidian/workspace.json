@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "bcd27dcd424a15f0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pages/英雄与冒险.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "85477f9d03afff36",
             "type": "leaf",
             "state": {
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -114,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/希腊罗马神话.md",
+                "file": "pages/英雄与冒险.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/希腊罗马神话.md",
+                "file": "pages/英雄与冒险.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/希腊罗马神话.md"
+                "file": "pages/英雄与冒险.md"
               }
             }
           }
@@ -204,10 +217,11 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "fb2a9b9b51bf15b4",
+  "active": "bcd27dcd424a15f0",
   "lastOpenFiles": [
-    "pages/下级神、魔法生物与英雄们的祖先.md",
     "pages/希腊罗马神话.md",
+    "pages/英雄与冒险.md",
+    "pages/下级神、魔法生物与英雄们的祖先.md",
     "pages/希腊罗马神话(古典学学者写给大众的神话小书，追溯古希腊罗马神话的前世今生。）.md",
     "roots/神话.md",
     "roots/生物.md",
@@ -241,7 +255,6 @@
     "pages/模因.md",
     "pages/歇斯底里.md",
     "pages/[阿尔忒弥斯.md",
-    "pages/伟大的诸神：第一代神祇.md",
     "assets/book/希腊罗马神话(古典学学者写给大众的神话小书，追溯古希腊罗马神话的前世今生。） (菲利普·马蒂塞克 [菲利普·马蒂塞克]) (Z-Library).epub",
     "assets/book",
     "assets/新建文件夹",
