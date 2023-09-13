@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fb2a9b9b51bf15b4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "pages/希腊罗马神话.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "bcd27dcd424a15f0",
             "type": "leaf",
             "state": {
@@ -32,12 +20,12 @@
             }
           },
           {
-            "id": "85477f9d03afff36",
+            "id": "b48079233b028216",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/下级神、魔法生物与英雄们的祖先.md",
+                "file": "pages/希腊罗马神话.md",
                 "mode": "source",
                 "source": false
               }
@@ -127,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/英雄与冒险.md",
+                "file": "pages/希腊罗马神话.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/英雄与冒险.md",
+                "file": "pages/希腊罗马神话.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/英雄与冒险.md"
+                "file": "pages/希腊罗马神话.md"
               }
             }
           }
@@ -227,13 +215,13 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "bcd27dcd424a15f0",
+  "active": "b48079233b028216",
   "lastOpenFiles": [
-    "pages/希腊罗马神话.md",
+    "roots/神话.md",
     "pages/英雄与冒险.md",
+    "pages/希腊罗马神话.md",
     "pages/下级神、魔法生物与英雄们的祖先.md",
     "pages/希腊罗马神话(古典学学者写给大众的神话小书，追溯古希腊罗马神话的前世今生。）.md",
-    "roots/神话.md",
     "roots/生物.md",
     "roots/爵位.md",
     "roots/建筑.md",
